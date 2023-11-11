@@ -14,6 +14,17 @@
 	</head>
 	<body>
 		<div class="fakeloader"></div>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="js/fakeLoader.js"></script>
+        <div class="fakeLoader"></div>
+        <script>
+            $(document).ready(function () {
+                $.fakeLoader({
+                    bgColor: '#e74c3c',
+                    spinner: 'spinner2'
+                });
+            });
+        </script>
 		<div class="animation-wrapper">
 			<div class="particle particle-1"></div>
 			<div class="particle particle-2"></div>
@@ -54,16 +65,5 @@
 				</header>
 			</div>
 		</div>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-        <script src="js/fakeLoader.js"></script>
-        <div class="fakeLoader"></div>
-        <script>
-            $(document).ready(function () {
-                $.fakeLoader({
-                    bgColor: '#e74c3c',
-                    spinner: 'spinner2'
-                });
-            });
-        </script>
 	</body>
 </html>
