@@ -94,6 +94,7 @@ section.main12 {
     left: 0;
     right: 0;
     min-height: 20vh;
+    max-height: 200px;
     animation: fadeInUp .8s
 }
        
