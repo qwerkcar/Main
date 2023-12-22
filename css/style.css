@@ -89,11 +89,11 @@ section.main12 {
     align-items: center;
     justify-content: center;
     position: fixed;
-    top: 0;
-    bottom: 100;
+    top: 100;
+    bottom: 0;
     left: 0;
     right: 0;
-    min-height: 40vh;
+    min-height: 20vh;
     animation: fadeInUp .8s
 }
        
