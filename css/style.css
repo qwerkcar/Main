@@ -86,9 +86,10 @@ section.main {
 
 section.main12 {
     display: flex;
+    potition: bottom;
     flex-direction: column;
     align-items: center;
-    justify-content: bottom;
+    justify-content: center;
     text-align: center;
     min-height: 40vh;
     animation: fadeInUp .8s
