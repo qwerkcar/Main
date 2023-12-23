@@ -88,7 +88,7 @@ section.main12 {
     display: flex;
     align-items: center;
     justify-content: center;
-    position: fixed;
+    position: relative;
     top: 100;
     bottom: 0;
     left: 0;
