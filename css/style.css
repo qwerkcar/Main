@@ -91,10 +91,11 @@ section.main33 {
     justify-content: center;
     text-align: center;
     position: fixed;
-    top: 110;
+    top: 70;
     bottom: 0;
     left: 0;
     right: 0;
+    min-height: 40vh;
 }
 
 section.main12 {
