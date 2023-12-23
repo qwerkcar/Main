@@ -84,6 +84,19 @@ section.main {
     animation: fadeInUp .8s
 }
 
+section.main11 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: fixed;
+    top: 110;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    min-height: 20vh;
+    max-height: 70px;
+
 section.main12 {
     display: flex;
     align-items: center;
@@ -94,7 +107,7 @@ section.main12 {
     left: 0;
     right: 0;
     min-height: 20vh;
-    max-height: 500px;s
+    max-height: 500px;
     animation: fadeInUp .8s
 }
        
