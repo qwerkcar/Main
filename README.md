@@ -78,7 +78,7 @@
 ### 🎧 Spotify Playing
 
 <p align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1hjRhYpWyqDpPahmSlUTlc?utm_source=generator&theme=0" width="70%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <a href="[https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz](https://open.spotify.com/embed/track/1hjRhYpWyqDpPahmSlUTlc?utm_source=generator&theme=0)" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
 ### 🙋‍♀️ Let's Connect
