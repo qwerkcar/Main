@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm Abdul Mufid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
 
@@ -9,12 +9,12 @@
 <hr/>
 <h4 align="center">I'm an amateur and Noob.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eabdalmufid8&label=Profile%20views&color=0e75b6&style=plastic" alt="eabdalmufid" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eabdalmufid8&label=Profile%20views&color=0e75b6&style=plastic" alt="qwerkcar" /> </p>
 
 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eabdalmufid&theme=algolia" alt="eabdalmufid"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eabdalmufid&theme=algolia" alt="qwerkcar"  /></p>
 
 <p align="left"> 
 
@@ -59,10 +59,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/eabdalmufid/github-readme-stats"><img alt="eabdalmufid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eabdalmufid&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/qwerkcar/github-readme-stats"><img alt="qwerkcar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=qwerkcar&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eabdalmufid&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eabdalmufid" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qwerkcar&show_icons=true&locale=en&layout=compact&theme=algolia" alt="qwerkcar" height="192px"/>
   <br/>
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -78,20 +78,20 @@
 ### 🎧 Spotify Playing
 
 <p align="center">
-  <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1hjRhYpWyqDpPahmSlUTlc?utm_source=generator&theme=0" width="70%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </p>
 
 ### 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="https://github.com/eabdalmufid"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://instagram.com/eabdlmufid"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://github.com/qwerkcar"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://instagram.com/yardanshaq"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
 </p>
 
 
 
-* Credit: [Abdul Mufid](https://github.com/eabdalmufid)
-* Last Edited on: 05/03/2022
+* Credit: [Yardan Shaq](https://github.com/qwerkcar)
+* Last Edited on: 28/12/2023
 
 
 
