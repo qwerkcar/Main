@@ -127,6 +127,7 @@ section.main span {
     font-size: 30px;
     font-weight: 700
     text-align: center;
+    position: relative;
 }
 
 section.main p {
